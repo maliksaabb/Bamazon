@@ -6,13 +6,13 @@ This `CLI` application implements a simple command line based storefront using t
 In order to run this application, you should have the MySQL database already set up on your machine. If you don't, visit the `MySQL installation` page to install the version you need for your operating system. Once you have MySQL isntalled, you will be able to create the Bamazon database and the products table with the SQL code found in Bamazon.sql. Run this code inside your MySQL client  to populate the database, then you will be ready to proceed with running the **Bamazon customer interfaces**
 
 ### Command Executions
-*Installing the inquirer and mysql packages*
+`*Installing the inquirer and mysql packages*`
   ![!](https://github.com/maliksaabb/Bamazon/blob/master/gifdemos/inquirernmysql.gif)
 
-*Bamazon's Customer Interface*
+`*Bamazon's Customer Interface*`
 ![!](https://github.com/maliksaabb/Bamazon/blob/master/gifdemos/nodebamazoncustomer.gif)
   
-*Selecting item and placing Order*
+`*Selecting item and placing Order*`
 ![!](https://github.com/maliksaabb/Bamazon/blob/master/gifdemos/order.gif)
   
 
