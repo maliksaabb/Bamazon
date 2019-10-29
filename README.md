@@ -12,5 +12,7 @@ In order to run this application, you should have the MySQL database already set
 *Bamazon's Customer Interface*
 ![!](https://github.com/maliksaabb/Bamazon/blob/master/gifdemos/nodebamazoncustomer.gif)
   
+*Selecting item and placing Order*
+![!](https://github.com/maliksaabb/Bamazon/blob/master/gifdemos/order.gif)
   
 
