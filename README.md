@@ -9,3 +9,8 @@ In order to run this application, you should have the MySQL database already set
 *Installing the inquirer and mysql packages*
   ![!](https://github.com/maliksaabb/Bamazon/blob/master/gifdemos/inquirernmysql.gif)
 
+*Bamazon's Customer Interface*
+![!](https://github.com/maliksaabb/Bamazon/blob/master/gifdemos/nodebamazoncustomer.gif)
+  
+  
+
